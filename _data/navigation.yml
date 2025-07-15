@@ -28,6 +28,12 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
+
+  - title: "Honor and Awards"
+    url: /honor-and-awards/
+
+    - title: "Collaborator"
+    url: /collaborator/
     
   - title: "Guide"
     url: /markdown/
