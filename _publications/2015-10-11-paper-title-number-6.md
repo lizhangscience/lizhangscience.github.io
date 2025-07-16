@@ -3,7 +3,7 @@ title: "Paper Title Number 6"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-11-paper-title-number-6
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'expert'
 date: 2015-10-11
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
