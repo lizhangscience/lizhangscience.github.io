@@ -12,7 +12,7 @@ main:
     url: /non-menu-page/
 
   - title: "bcd"
-    url: /
+    url: /tags/
 
   - title: "Publications"
     url: /publications/
