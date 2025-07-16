@@ -11,6 +11,9 @@ main:
   - title: "ABC"
     url: /non-menu-page/
 
+  - title: "bcd"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
