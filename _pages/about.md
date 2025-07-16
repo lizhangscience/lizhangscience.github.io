@@ -122,10 +122,6 @@ Born in 1987, I have received my Ph.D. from the University of Chinese Academy of
             font-size: 0.9rem;
 		">Doctoral Researcher<br>
         <small>Ph.D. in Electronic Science & Technology</small></p>
-		<div style="margin-top: 0.5rem;">
-			<span style="background: #eee; padding: 0.2rem 0.5rem; border-radius: 3px; font-size: 0.8rem;">AI</span>
-			<span style="background: #eee; padding: 0.2rem 0.5rem; border-radius: 3px; font-size: 0.8rem;">Big Data</span>
-		</div>
         <div style="margin-top: 0.8rem;">
             <a href="mailto:member2@email.com" style="color: #3498db;">✉️ Email</a> &nbsp;
             <a href="#" style="color: #3498db;">🌐 Website</a>
