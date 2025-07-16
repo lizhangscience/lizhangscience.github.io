@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: 
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<!-- # Zhang Li, Ph.D.-->
+# Zhang Li, Ph.D.
 **Professor | Doctoral Supervisor | Distinguished Professor**  
 *Director, Department of Information and Communication Engineering, Guizhou University*  
 
