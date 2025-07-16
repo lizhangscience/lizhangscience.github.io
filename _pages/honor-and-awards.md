@@ -1,6 +1,6 @@
 ---
-layout: 
-permalink: /honor-and-awards/
+layout: archive
+permalink: /honor/
 title: "Honor and Awards"
 author_profile: true
 
