@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: 
 permalink: /honor-and-awards/
 title: "Honor and Awards"
 author_profile: true
-redirect_from: 
-  - /honor-and-awards/
-  - /honor-and-awards.html
+
 ---
 
 {% include toc %}
