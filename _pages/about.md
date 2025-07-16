@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Zhang Li, Ph.D.
 **Professor | Doctoral Supervisor | Distinguished Professor**  
-*Director, Department of Information and Communication Engineering, Guizhou University*  
+*Director, [Department of Information and Communication Engineering](https://eie.gzu.edu.cn/), [Guizhou University](https://www.gzu.edu.cn/main.psp)*  
 
 ---
 
