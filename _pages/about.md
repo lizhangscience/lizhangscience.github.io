@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 ## Academic Profile  
-Born in 1987, I have received my Ph.D. from the University of Chinese Academy of Sciences (Sino-US Joint Doctoral Training Program). I am currently a **Professor**, **Distinguished Professor**, **Ph.D. Supervisor**, and **Postdoctoral Mentor** at Guizhou University, where he also serves as the **Head of the Department of Information and Communication Engineering**.  
+Born in 1987, I have received my Ph.D. from the University of Chinese Academy of Sciences (Sino-US Joint Doctoral Training Program). I am currently a **Professor**, **Distinguished Professor**, **Ph.D. Supervisor**, and **Postdoctoral Mentor** at Guizhou University, where I also serves as the **Head of the Department of Information and Communication Engineering**.  
 
 ## Key Honors & Appointments  
 - **Chief Scientist**, National Key R&D Program of China  
