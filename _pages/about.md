@@ -77,7 +77,7 @@ Born in 1987, I have received my Ph.D. from the University of Chinese Academy of
     overflow: hidden;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 ">
-    <img src="./images/bio-photo.jpg" alt="Dr. member1" style="
+    <img src="./images/zhangli.png" alt="Dr. member1" style="
         width: 100%;
         height: 200px;
         object-fit: cover;
@@ -109,7 +109,7 @@ Born in 1987, I have received my Ph.D. from the University of Chinese Academy of
     overflow: hidden;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 ">
-    <img src="./images/bio-photo.jpg" alt="Dr. member2" style="
+    <img src="./images/zhangliang.jpg" alt="Dr. member2" style="
 		width: 100%;
         height: 200px;
         object-fit: cover;
