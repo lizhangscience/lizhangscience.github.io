@@ -12,7 +12,7 @@ main:
     url: /non-menu-page/
 
   - title: "bcd"
-    url: /honor-and-awards/
+    url: /about_me/
 
   - title: "Publications"
     url: /publications/
