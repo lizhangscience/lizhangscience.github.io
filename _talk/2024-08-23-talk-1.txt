@@ -1,0 +1,11 @@
+---
+title: "Applications of Artificial Intelligence in Scientific Data Processing: Perspectives on Carbon Neutrality"
+collection: talks
+type: "Talk"
+permalink: /talks/2024-08-23-talk-1
+venue: "China-Germany Symposium on Green Technologies and Materials"
+date: 2024-08-23
+location: "Germany"
+---
+
+Applications of Artificial Intelligence in Scientific Data Processing: Perspectives on Carbon Neutrality.

@@ -1,0 +1,11 @@
+---
+title: "Imaging Simulation and Data Processing Exploration for the FAST Extended Array"
+collection: talks
+type: "Talk"
+permalink: /talks/2024-11-26-talk-1
+venue: "Astroinformatics & Virtual Observatory Annual Conference 2024"
+date: 2024-11-26
+location: "Xinchang,Zhejiang, China"
+---
+
+Imaging Simulation and Data Processing Exploration for the FAST Extended Array.
