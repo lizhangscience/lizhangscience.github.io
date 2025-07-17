@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 # Zhang Li, Ph.D.
-**Professor | Doctoral Supervisor | Distinguished Professor**  
+**Professor | Doctoral Supervisor | Chair Professor**  
 *Director, [Department of Information and Communication Engineering](https://eie.gzu.edu.cn/), [Guizhou University](https://www.gzu.edu.cn/main.psp)*  
 
 ---
 
 ## Academic Profile  
-Born in 1987, I have received my Ph.D. from the University of Chinese Academy of Sciences (Sino-US Joint Doctoral Training Program). I am currently a **Professor**, **Distinguished Professor**, **Ph.D. Supervisor**, and **Postdoctoral Mentor** at Guizhou University, where I also serves as the **Head of the Department of Information and Communication Engineering**.  
+Born in 1987, I have received my Ph.D. from the University of Chinese Academy of Sciences (Sino-US Joint Doctoral Training Program). I am currently a **Professor**, **Chair Professor**, **Ph.D. Supervisor**, and **Postdoctoral Mentor** at Guizhou University, where I also serves as the **Head of the Department of Information and Communication Engineering**.  
 
 ## Key Honors & Appointments  
 - **Chief Scientist**, National Key R&D Program of China  
@@ -22,7 +22,7 @@ Born in 1987, I have received my Ph.D. from the University of Chinese Academy of
 - **Outstanding Young Scientist of Guizhou Province**  
 - **Top Scientific Talent of Guizhou Province**  
 - **Key Big Data Talent of Guizhou Province**  
-- **Distinguished Teaching Professor of Guizhou Province**  
+- **Chair Teaching Professor of Guizhou Province**  
 
 ## Academic Service & Leadership  
 ### National-Level Roles  
