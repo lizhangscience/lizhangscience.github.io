@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Honor"
-    url: /honor/ 
+#  - title: "Honor"
+#    url: /honor/ 
 
 #  - title: "Teaching"
 #    url: /teaching/    
