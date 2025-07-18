@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Zhang Li, Ph.D.
+# Li Zhang, Ph.D.
 **Professor | Doctoral Supervisor | Chair Professor**  
 *Director, [Department of Information and Communication Engineering](https://eie.gzu.edu.cn/), [Guizhou University](https://www.gzu.edu.cn/main.psp)*  
 
